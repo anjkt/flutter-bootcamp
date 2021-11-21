@@ -1,4 +1,4 @@
-# crisp_app
+# General Flutter App 
 
 A new Flutter project.
 
